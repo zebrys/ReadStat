@@ -23,7 +23,7 @@
     <ProjectGuid>{96AB8E29-11AC-40F0-871A-856DD9C78EAB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ReadStatTests</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
     <ProjectName>ReadStat_Test_double_decimals</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
